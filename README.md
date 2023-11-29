@@ -29,4 +29,4 @@ Este projeto é um backend desenvolvido em Java com Spring Boot, destinado à li
 - **Produção:** Endereço da plataforma em nuvem utilizado.
 
 ### Script Docker Compose
-https://gist.github.com/thalesxbrasileiro/759617b373719132ffbec7d62007d08d.js
+https://gist.github.com/thalesxbrasileiro/759617b373719132ffbec7d62007d08d
